@@ -1,0 +1,27 @@
+.nav{
+    background-color: #2980b9;
+}
+.main-menu{
+    display: flex;
+}
+.main-menu li{
+    list-style: none;
+    font-size: 22px;
+}
+.main-menu li a{
+    text-decoration: none;
+    color: #ffffff;
+    margin: 0 20px;
+    padding: 10px;
+}
+.main-menu .logo a{
+    font-size: 30px;
+    color: #ffffff;
+}
+.main-menu .logo a:hover{
+    text-decoration: none;
+}
+.main-menu li a:hover{
+    color: #ffffff;
+    text-decoration: underline;
+}

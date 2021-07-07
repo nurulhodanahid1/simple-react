@@ -1,0 +1,11 @@
+.item{
+    font-size: 20px;
+    color: #2980b9;
+    font-weight: 700;
+}
+.cart-container{
+    width: 60%;
+    margin: auto;
+    padding: 20px 10px 20px 20px;
+    box-shadow: 5px 5px 10px #7f8c8d;
+}

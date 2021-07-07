@@ -1,0 +1,48 @@
+.players-container{
+    width: 80%;
+    margin-left: 205px;
+    margin-top: 10px;
+    text-align: center;
+    color: #3498db;
+}
+.player-container{
+    float: left;
+}
+.player{
+    flex: 3 0 auto;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #7f8c8d;
+}
+.player h4{
+    color: #8e44ad;
+    margin-top: -10px;
+}
+.player-container img{
+    width: 250px;
+    height: 150px;
+}
+.salary{
+    color: #c0392b;
+}
+.main-button{
+    color: #ffffff;
+    background-color: #16a085;
+    padding: 10px 23px;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    font-size: 16px;
+}
+.plus{
+    margin-left: 3px;
+    margin-top: -4px;
+    font-size: 22px;
+}
+.main-button:hover{
+    background-color: #27ad5f
+}
+.main-button:hover .plus{
+    color: #8e44ad;
+}
